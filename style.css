@@ -1,0 +1,13 @@
+:root {
+    --cor-de-fundo: #FFB449;
+    --cor-de-letra-principal:#FF6EC7;
+}
+
+.container {
+background-color: var(--cor-de-fundo);
+
+}
+
+.texto__principal {
+    color: var(--cor-de-letra-principal);
+}
